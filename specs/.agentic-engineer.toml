@@ -1,0 +1,4 @@
+apiVersion = "agentic-engineer/v1"
+name = "lts2"
+createdAt = "2026-09-29T11:32:14Z"
+idea = "a small todo with todo add and todo done. no update or delete. user should be able to login and the data should be saved in the database"
